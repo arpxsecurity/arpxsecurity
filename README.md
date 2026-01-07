@@ -1,5 +1,5 @@
 # Arpxsec-Me
-<img width="1536" height="1024" alt="ChatGPT Image Jan 7, 2026, 10_51_26 PM" src="https://github.com/user-attachments/assets/95d2130a-dbe5-4ca4-8191-3047605ea1a7" />
+<img width="1536" height="1024" alt="Jan 7, 2026, 11_01_23 PM" src="https://github.com/user-attachments/assets/6fca242a-1d5d-4f72-be4a-10cb1bab0e4a" />
 
 This repository serves as a detailed and structured overview of who I am, what I work on, and how I approach technology and learning.
 
