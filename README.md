@@ -10,4 +10,18 @@ Going forward, I’m actively building and refining real-world, security-focused
 
 My focus is on developing projects that demonstrate how security, cloud, AI, and software engineering intersect in real systems, while continuously improving my skills through experimentation, documentation, and ethical practice.
 
-Currently working on advanced security, cloud focused and AI automation projects that will be shared here soon..
+🔧 Core Skills & Tools
+
+Cybersecurity & Ethical Hacking: Web & Network Security, Penetration Testing, Vulnerability Assessment, Exploitation, SIEM (Splunk), Incident Response, IAM, Wireless Security, Security Automation, Ethical Hacking Labs
+
+Cloud & DevOps: AWS (EC2, S3, IAM), GCP, Linux Administration (Kali, Parrot, Ubuntu, RHEL), Docker, Virtualization, CI/CD Basics
+
+Programming & Automation: Python, Bash, C/C++, Security Scripting, GenAI Automations (N8N, Zapier, AirTable, Opal)
+
+AI / Data Science: Machine Learning, Deep Learning (CNN, RNN), Data Analysis, Predictive Modeling, RAG Systems, LLM APIs
+
+Web & Full-Stack Development: HTML, CSS, JavaScript, React, NextJS, MERN Stack, Appwrite, Authentication & JWT
+
+Other Tools & Practices: Git, GitHub, Postman, Web Scraping, Agile Methodology, API Testing, Version Control
+
+Currently working on advanced security, cloud focused and AI automation projects that will be shared here soon...
