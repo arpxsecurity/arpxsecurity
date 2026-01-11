@@ -12,4 +12,4 @@ This repository serves as a structured overview of who I am, what I work on, and
 
 **Core Skills & Tools:** *PenTesting, Vulnerability Assessment, Web & Network Security, SIEM, Linux, AWS, Cloud Security, Python, Bash, C/C++, Security Automation, AI/ML (CNN, RNN, RAG), Full-Stack Development (MERN, NextJS), Git, Docker, Agile, API Testing*
 
-Currently working on advanced security, cloud focused and AI automation projects that will be shared here soon...
+Currently working on advanced security, cloud focused and AI automation projects (Products), continuously exploring and building along the way.
