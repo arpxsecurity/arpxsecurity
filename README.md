@@ -1,6 +1,6 @@
 # Arpxsec-Me
 
-*This repository serves as a structured overview of who I am, what I work on, and how I approach technology and learning.*
+This repository serves as a structured overview of who I am, what I work on, and how I approach technology and learning.
 
 I’m a Computer Science undergraduate with a strong foundation in cybersecurity, cloud security, and security-oriented development, backed by hands-on practice across multiple domains. 
 
@@ -8,8 +8,8 @@ I’m comfortable working with penetration testing, vulnerability assessment, ne
 
 Going forward, I’m actively building and refining real-world, security-focused and AI-assisted projects that reflect practical problem solving rather than just academic concepts. 
 
-My focus is on developing projects that demonstrate how security, cloud, AI, and software engineering intersect in real systems, while continuously improving my skills through experimentation, documentation, and ethical practice.
+--? My focus is on developing projects that demonstrate how security, cloud, AI, and software engineering intersect in real systems, while continuously improving my skills through experimentation, documentation, and ethical practice.
 
-**Core Skills & Tools:** PenTesting, Vulnerability Assessment, Web & Network Security, SIEM, Linux, AWS, Cloud Security, Python, Bash, C/C++, Security Automation, AI/ML (CNN, RNN, RAG), Full-Stack Development (MERN, NextJS), Git, Docker, Agile, API Testing
+**Core Skills & Tools:** *PenTesting, Vulnerability Assessment, Web & Network Security, SIEM, Linux, AWS, Cloud Security, Python, Bash, C/C++, Security Automation, AI/ML (CNN, RNN, RAG), Full-Stack Development (MERN, NextJS), Git, Docker, Agile, API Testing*
 
 Currently working on advanced security, cloud focused and AI automation projects that will be shared here soon...
