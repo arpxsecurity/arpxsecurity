@@ -1,6 +1,6 @@
 # Arpxsec-Me
 
-This repository serves as a structured overview of who I am, what I work on, and how I approach technology and learning.
+*This repository serves as a structured overview of who I am, what I work on, and how I approach technology and learning.*
 
 I’m a Computer Science undergraduate with a strong foundation in cybersecurity, cloud security, and security-oriented development, backed by hands-on practice across multiple domains. 
 
